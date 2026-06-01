@@ -43,7 +43,7 @@ st.markdown("""
 <div style='position:absolute;width:500px;height:500px;border-radius:50%;border:1px solid #F2C94C;opacity:0;top:50%;left:50%;transform:translate(-50%,-50%);animation:ringPulse 6s ease 2s infinite;pointer-events:none;'></div>
 <div style='display:inline-flex;align-items:center;gap:0.75rem;font-family:Space Mono,monospace;font-size:0.65rem;text-transform:uppercase;letter-spacing:0.15em;color:#888;margin-bottom:2rem;padding:0.6rem 1.2rem;border:1px solid #181818;'>
 <span style='width:6px;height:6px;background:#F2C94C;border-radius:50%;animation:pulse 2s infinite;display:inline-block;'></span>
-AI-Powered &nbsp;|&nbsp; Any Indian Law &nbsp;|&nbsp; Powered by Llama 3.1
+AI-Powered &nbsp;|&nbsp; All Indian Laws &nbsp;|&nbsp; Legal-Tech
 </div>
 <div style='overflow:hidden;'>
 <div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.3s forwards;font-family:Bebas Neue,sans-serif;font-size:clamp(4rem,10vw,8rem);line-height:0.9;color:#ffffff;'>YK</div>
@@ -52,12 +52,12 @@ AI-Powered &nbsp;|&nbsp; Any Indian Law &nbsp;|&nbsp; Powered by Llama 3.1
 <div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.5s forwards;font-family:Bebas Neue,sans-serif;font-size:clamp(4rem,10vw,8rem);line-height:0.9;color:#F2C94C;'>EXPLAIN</div>
 </div>
 <div style='overflow:hidden;margin-bottom:2rem;'>
-<div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.7s forwards;font-family:Bebas Neue,sans-serif;font-size:clamp(1.5rem,4vw,3rem);line-height:0.9;color:#888;'>Bare Act Explainer — Indian Law in Plain English</div>
+<div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.7s forwards;font-family:Bebas Neue,sans-serif;font-size:clamp(1.5rem,4vw,3rem);line-height:0.9;color:#888;'>Decoding the Law for Everyone</div>
 </div>
 <div style='display:inline-block;padding:2rem 3rem;border:1px solid #181818;'>
 <div style='font-family:Space Mono,monospace;font-size:0.6rem;text-transform:uppercase;letter-spacing:0.2em;color:#F2C94C;margin-bottom:0.5rem;'>SYSTEM STATUS</div>
 <div style='font-family:Bebas Neue,sans-serif;font-size:3rem;color:#ffffff;line-height:1;'>READY</div>
-<div style='font-family:Space Mono,monospace;font-size:0.65rem;color:#888;'>All Indian acts loaded // paste any section</div>
+<div style='font-family:Space Mono,monospace;font-size:0.65rem;color:#888;'>Jargon-Free Justice</div>
 </div>
 </div>
 <hr style='border-color:#181818;margin:0;'>
